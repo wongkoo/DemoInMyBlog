@@ -1,1 +1,1 @@
-You can find articles about these demo in my blog: [wongkoo](http://wongkoo.github.io/).
+You can find articles about these demos in my blog: [wongkoo](http://wongkoo.github.io/).
